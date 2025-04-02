@@ -1,4 +1,5 @@
 # RealEstate-Tenant-Retention-Optimization
+This project aims to enhance tenant retention for HomeVibe Properties by leveraging data analytics and visualization techniques. 
 
 ## Building an Interactive Power BI Dashboard for Residential Real Estate Excellence
 
